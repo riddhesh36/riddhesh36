@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @riddhesh36
 - 👀 I’m interested in Web Designs and Football
 - 🌱 I’m currently learning Front-End-Development
-- 💞️ I’m looking to collaborate on Next.js
+- 💞️ I’m looking to collaborate on React Native
 - 📫 You can contact me here 📢riddheshpatil36@gmail.com
 
 <!---
